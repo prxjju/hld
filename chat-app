@@ -1,0 +1,4 @@
+chat app like whatsapp / slack
+1. how to design using websocket 
+2. how to design distributed websokcet gateway for connections
+3. how to handle messages order if the receiver is offline
